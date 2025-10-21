@@ -1,5 +1,5 @@
 # Formally-Modeled-CWE
-This directory contains the formal Alloy model of [Common Weakness Enumerations](https://cwe.mitre.org/) (CWEs) described in the paper "[Formally Modeled Common Weakness Enumerations (CWEs)](https://dl.acm.org/doi/pdf/10.1145/3691621.3694938)." 
+This directory contains the formal Alloy model of [Common Weakness Enumerations](https://cwe.mitre.org/) (CWEs) described in the paper "[Formally Modeled Common Weakness Enumerations (CWEs)](https://dl.acm.org/doi/pdf/10.1145/3691621.3694938)," which appeared in the 2024 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW). 
 
 ## CWEs modeled for security tactics ([source](https://github.com/SoftwareDesignLab/Formally-Modeled-CWE/)): 
 * **Audit:** 532, 778, 779
