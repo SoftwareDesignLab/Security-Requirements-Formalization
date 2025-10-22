@@ -15,10 +15,10 @@ public class AlloyGeneration {
 
     public static void main(String[] args) {
         // Load the thesaurus from CSV file
-        loadThesaurus("C:\\Users\\vkosc\\eclipse-workspace\\AlloyGeneration\\files\\thesaurus.csv");
+        loadThesaurus("C:\\put-your-directory-here\\AlloyGeneration\\files\\thesaurus.csv");
 
         // Process the sentences
-        processSentences("C:\\Users\\vkosc\\eclipse-workspace\\AlloyGeneration\\files\\sentences.txt");
+        processSentences("C:\\put-your-directory-here\\AlloyGeneration\\files\\sentences.txt");
         
     }
 
