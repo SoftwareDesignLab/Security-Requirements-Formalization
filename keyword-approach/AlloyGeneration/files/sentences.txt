@@ -1,0 +1,156 @@
+Servers will harden operating systems by eliminating unnecessary system services, accounts, network services, limited user access rights throughout the environments.
+Solutions will define the access levels and privilege set to create, read, update/change, or delete data.
+The system will log security-related activities on operating systems, applications, databases, and network devices.
+Under certain circumstances, passwords will be communicated between authorized employees for the purpose of providing support services.
+The Vendor shall maintain a data and systems security log that can be reviewed by an independent auditor.
+Database passwords will be changed a minimum of every 180 days.
+The use of passwords is addressed in the Service Provider Password Policy.
+Solutions will support, issue, and manage public key certificates for secure transactions.
+Employees will follow rules for password length and complexity.
+System passwords will be changed a minimum of every 180 days.
+Employees will keep their passwords confidential and secure at all times.
+Key exchange shall be accomplished through Internet Security Association Key Management Protocol (ISAKMP) using Diffie-Hellman public key techniques.
+Service Provider will monitor for unauthorized changes to certain system and application files that would be a sign of a possible Environment compromise.
+Passwords will only be communicated between authorized employees for the purpose of providing support services.
+The system will use strong authentication to provide enhanced protection against unauthorized access to web application environments.
+Duration of active sessions will be limited on VPN, operating system, administrative application, and network device accounts.
+Access to PHI Servers will be restricted to those employees who have successfully completed HIPAA training and proof of successful completion will be available to the State upon request.
+Hosting Service Provider personnel will be required to install the approved full disk encryption software on their laptops, which uses a strong encryption algorithm.
+Service Providers will comply with the Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+Solutions will support isolation within the directory for storing internal and external users.
+The State will provide a written request to the Hosting Service Provider with information detailing the requested scope of the audit and the regulatory obligation necessitating the audit.
+Solutions will comply with the Safeguards for Protecting Federal Tax Returns and Return Information.
+The Vendor shall employ access controls to allow a variety of user profiles with role-appropriate access to retain data security.
+Solutions will define by department, role, and/or individual employee/user, the access levels and privilege set to create, read, update/change, or delete data.
+Network device configurations will be hardened by performing an appropriate level of logging.
+The Vendor must contract with a third party to perform a SSAE 16 Type II security assessment to verify that all data is maintained in a secure environment.
+Hosting Service Provider will use strong authentication to provide enhanced protection against unauthorized access to Vermont's web application environments using Hosting Service Provider's adaptive access capabilities.
+The Authorized User must report any loss or disclosure of Medicare data to any unauthorized persons, as a potential security or privacy breach to the GMCB and to the CMS Action Desk.
+Hosting Service Provider will license and install third party Service Provider anti-virus and anti-spam products to scan all employee and the State email and inbound attachments that traverse either the State's dedicated servers located at Hosting Service Provider's Data Centers.
+Hosting Service Provider will update and maintain an ISIRP for accuracy and effective information security incident response planning.
+Database passwords will be maintained by Hosting Service Provider operations and changed a minimum of every 180 days.
+Security-related log entries will capture the location of change.
+Hosting Service Providers will provide to the State relevant Breach, Security, or Enforcement policies.
+Hosting Service Provider will have security and privacy requirements in its service provider contracts, which address issues such as physical and logical security requirements, privacy protection, breach reporting, and auditing.
+Vendor shall describe how their solution handles the secure transmission of data, both when submitted and for approved users to receive once consolidated.
+Hosting Service Provider ePHI Environments will provide Vermont with the summary information from the third party assessment report.
+Security Includes need to know.
+The Vendor will log the summary of data submitter for verification of data accuracy.
+The Vendor will provide a data validation report to data submitters.
+The Vendor shall have the capability to retain and securely store identifiable data, which may be submitted, for potential matching within the system, if additional data sources are incorporated into the data set.
+Network device configurations will be hardened by disabling telnet access.
+Solutions will support Protection of PII data.
+Cryptographic controls will be implemented using IPSec and SSL protocols to provide end users, whether they are the State's End Users or Hosting Service Provider support engineers, with secure access to the target applications.
+Hosting Service Provider will provide Operating System management to protect against dictionary and brute force attacks.
+Solutions will comply with Federal Information Security Management Act of 2002.
+Hosting Service Provider will complete and supply to the State, CMS Security required documentation including System Security Plan, Risk Assessment, and Contingency Plan.
+Hosting Service Providers will conduct an annual risk assessment of ePHI environments against the HIPAA controls to ensure compliance and provide findings to Vermont.
+Service Providers agree to notify the State's Security Office of a request to view FTI 60 days before exposing the data.
+Solutions will provide Certificate Authority for secure server side transactions.
+The Vendor shall maintain a comprehensive emergency back-up and recovery plan for the database, as submitted and as provided in extracts.
+Security-related log entries will capture the date.
+Database data will be encrypted at the file system layer.
+Server load balancers with built-in SSL accelerators will be configured as a secure reverse proxy to prevent direct unmonitored access to application Servers on the public middle tier.
+Service Providers agree to provide Attestation of Compliance and to identify Merchant of Record for PCI.
+System shall be delivered with no viruses or malware.
+Passwords will not be disclosed to any unauthorized person.
+Hosting Service Provider will maintain a Security Organization Policy describing and clarifying the roles and responsibilities of various teams and individuals involved in information security.
+Hosting Service Provider will install, configure, and manage a web application firewall on Vermont's internet-facing Environments.
+Hosting Service Provider will acknowledge that the State will be subject to audits by entities other than regulators.
+The Vendor's solution shall comply with CMS security guidelines.
+Strong authentication will be employed in all deployment environments.
+Solutions will implement security for transport and messaging via web services.
+Hosting Service Provider will collect and retain security evidence.
+Hosting Service Provider will access state data only for the purpose of providing the services or as required by law, in accordance with the scope of services.
+If part of the proposed solution, the Vendor shall maintain shall maintain a secure virtual, remote desktop, server or other portal that provides access to the data sets, including upgrades and up-to-date patches, for the duration of contract.
+Directories will be accessible via the LDAP protocol.
+Hosting Service Provider will conduct an annual network and application penetration test for Vermont's Production Environment.
+Solutions will support Federal Identity, Credential, and Access Management Roadmap and Implementation Guidelines.
+Hosting Service Providers will procure SSL certificates on the State's behalf using VeriSign Corporation as the Certification Authority (CA).
+The hosting service provider shall establish appropriate administrative, technical, and physical safeguards to protect the confidentiality of the data and to prevent unauthorized use or access to it.
+Identity Management systems will be implemented using a 'virtual directory' model to abstract directory sources and improve maintainability.
+Hosting Service Provider and Solutions will comply with PCI/DSS standards.
+Security-related log entries will capture the time.
+Hosting Service Provider ePHI Environments will be included in HIPAA Compliance assessment performed by a qualified third party auditor.
+Solutions will comply with the Patient Protection and Affordable Care Act of 2010, Section 1561 Recommendations.
+The Vendor's servers must be physically secured with access controls such as biometric, badge, and other security solutions.
+A pre-boot login manager allows authorized users to login to unlock the key, boot the operating system, and access the data.
+Hosting Service Provider will employ an integrated security management system with electronic photo ID badges, cardholder access control, recorded digital video surveillance, and alarm monitoring.
+Servers will have operating systems hardened by eliminating unnecessary system services, accounts, network services, limited user access rights throughout the environments.
+Hosting Service Provider will possess an ISO 27002 Certificate of Conformance.
+Data on the disk will only be accessed through the use of a private key stored as a password protected file on the disk.
+The Vendor shall collaborate with GMCB staff to create and manage user roles and rights to the data.
+Hosting Service Provider's Data Centers will contain multiple isolated network environments used to deliver Hosting Services.
+Hosting Service Provider will deploy, monitor and manage third party host-based Data Loss Prevention software on the Windows workstations of Hosting Service Provider support personnel.
+Hosting Service Provider employees will follow rules for password length and complexity and keep their passwords confidential and secure at all times.
+Hosting Service Provider will keep the information confidential in accordance with security/compliance requirements.
+Solutions will comply with the Health Information Technology for Economic and Clinical Health Act (HITECH) of 2009.
+Solutions using credit/debit or other electronic funds transfer cards will be compliant with Payment Card Industry security standards.
+The Environments will undergo a security assessment process that includes review of the Hosting Service Provider programs, hardware and operating system components.
+Security Includes Separation of Duties.
+Under certain circumstances, passwords will be communicated between authorized Hosting Service Provider employees for the purpose of providing support services.
+Include your specific password requirements for each user.
+Hosting Service Provider employees will be prohibited from altering, disabling, or removing anti-virus software and the WSUS service from any computer.
+Hosting Service Provider will enable database auditing.
+HIPAA Security Services will require host data loss prevention on desktops and laptops used to connect to ePHI environments.
+Solutions will ensure non-repudiation as part of digital signature verification to prevent data from being altered, deleted or damaged during exchange.
+Hosting Service Provider will review logs for forensic purposes and Incidents, and any anomalous activities are incorporated into the Incident management process.
+The Authorized User must report any release, disclosure, or publication of personally identifiable information from the Medicare data, as a potential security or privacy breach to the GMCB and to the CMS Action Desk.
+Integrity of the data-in-transit will be protected through the use of strong encryption protocols.
+Solutions will set automatic alerts to system administrators when a breach pattern or unauthorized use activity is detected.
+Key exchange is accomplished through Internet Security Association Key Management Protocol (ISAKMP) using Diffie-Hellman public key techniques.
+The Vendor shall ensure that security violations are identified, documented, resolved, and reported to the State.
+Hosting Service Provider infrastructure and Hosting Service Provider software will comply with HIPAA standards.
+Solutions will have a fraud detection function.
+The third party auditor is required to execute a written confidentiality agreement acceptable to the Hosting Service Provider before conducting the audit.
+The use of passwords is addressed in the Hosting Service Provider Password Policy.
+Security-related log entries will capture the user account name and/or IP address.
+The Hosting Provider will enforce encryption using TLS for its emails traversing the Hosting Service Providers email infrastructure.
+Production Environments will be isolated from Non-Production Environments.
+Data in the secure analytic environment will be backed-up daily.
+Data stored on file systems will be encrypted.
+Solutions will have the ability to assign users to multiple OMS organizations with different applications and roles.
+Systems are configured to log access to the Environment or Hosting Service Provider Programs, as well as system alerts, console messages, and system errors.
+Solutions will use Single Sign On (SSO) components for authentication and authorization.
+HIPAA Security Services will require full disk encryption on desktops and laptops used to connect to ePHI environments.
+Self-registered users of applications will have identities verified per NIST SP 800-63.2.
+HIPAA Security Services consist of the deployment of certain security controls designed to protect the confidentiality, integrity and availability of Vermont's electronic PHI that will reside in Vermont's Environment within Hosting Service Provider's Data Centers.
+Hosting Service Provider Certified Configuration systems will hardened and undergo security assessments.
+Network device configurations will be hardened by turning off unneeded services.
+Solutions will log unsuccessful login attempts.
+HIPAA Security Services will require Anti Virus software on desktops and laptops used to connect to ePHI environments.
+Information assets will be classified in accordance with the "Hosting Service Providers" Information Protection Policy.
+Hosting Service Provider will create and review a security assessment checklist to be included in Vermont's Periodic Maintenance Plan.
+The Vendor shall maintain a data and systems security log that can be reviewed by an independent auditor and otherwise provided upon request.
+VPN tunnel endpoints will be encrypted with 168-bit Triple DES.
+Service Provider will follow State of Vermont Security Standards, as referenced in HR Electronics Policy 11.7.
+Hosting Service Provider and Solutions will comply with NIST standards outlined in S4A NIST 800 Series Summary and S4B NIST 800 Series Detail work sheets.
+Solutions will support issue and manage public key certificates for secure transactions.
+Audits will be at the State's expense.
+Hosting Service Provider will configure a hashed Message Authentication Code - Secure Hash Algorithm on all IPSec VPN networks to verify that the contents of the transmission have not been altered in transit.
+Servers will enable default log file settings for auditing critical events.
+Solutions will integrate with federal security services for identity proofing and multi-factor authentication.
+Hosting Service Provider will monitor for, and provide alerts of, unauthorized changes to certain system and application files that would be a sign of a possible Environment compromise.
+Network device configurations will be hardened by performing controlling Simple Network Management Protocol access to devices.
+Project participants and other individuals will not transmit or store any Personally Identifiable Information using storage publicly available, over the Internet or any wireless communication device.
+Security-related log entries will capture the original value and the new value.
+Server load balancers with built-in SSL accelerators will be deployed in redundant pairs to offload processor-intensive SSL transactions from Servers.
+The Vendor shall ensure that all data at rest and in motion is secure and encrypted in compliance with HIPAA and applicable State law.
+Solutions will support "user exits" or a "pluggable authentication module" (PAM) to enable user transition between Solutions and local systems that are authorized as third party connections to the Solution.
+Network device configurations will be hardened by controlling access to devices through the use of Terminal Access Controller Access Control System Plus.
+Hosting Service Provider will log security-related activities on operating systems, applications, databases, and network devices.
+The Vendor's solution shall comply with HIPAA security guidelines and applicable State laws.
+Data Masking is designed to obscure specific data elements and will be used in non-production databases in Vermont's Hosting Service Provider ePHI Environments, by replacing actual, sensitive data identified by Vermont with false, simulated data.
+HIPAA Security Services will require removable media encryption on desktops and laptops used to connect to ePHI environments.
+Hosting Service Provider Server Security Policy requires Windows servers to run up-to-date anti-virus software and to have SMS patch management.
+Hosting Service Provider will comply with HIPAA and HITECH security controls for relevant health care-based components.
+Logs with security-relevant information will be retained for three months.
+Hosting Service Provider will conduct quarterly reviews of the firewall policies and network devices configurations for Vermont's Hosting Service Provider ePHI Environments.
+VHCURES must be built in a secure database.
+External audits against Hosting Service Provider controls will be supplied to the State annually.
+Security Includes Least Privilege.
+Security-related log entries will capture the time zone.
+Security assessments will be performed prior to releasing solutions into production.
+Hosting Service Provider will evaluate and respond to Incidents that create suspicions of unauthorized access to or handling of State data.
+Hosting Service Provider will monitor, alert, and protect against web application attacks of internet-facing applications.
+Hosting Service Provider will provide a report on the results of the network and application penetration test.
