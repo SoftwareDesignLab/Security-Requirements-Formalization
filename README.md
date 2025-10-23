@@ -26,5 +26,8 @@ This repository contains findings, collected data, evaluations, and source code 
    - After Alloy analysis, **Amalgam** (`Formally-Modeled-CWE/amalgam.jar`) produced formal textual explanations (provenances) describing the causal link between  detected weaknesses and specific security tactics described within the requirements for each system.
 
 #### Flowchart describing the technique:
-Natural language requirements → KW-based or LLM-based formalization → formalized requirements (Alloy criteria) → Alloy analysis → results and optional Amalgam analysis. 
+Natural language requirements → KW-based or LLM-based formalization → formalized requirements (Alloy criteria) → Alloy analysis → results and optional Amalgam analysis.
+
+#### Note: 
+Each directory has its own readme file describing its contents individually in more detail. 
 
