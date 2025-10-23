@@ -11,4 +11,4 @@ This directory contains the formal Alloy model of [Common Weakness Enumerations]
 * **Validate Inputs:** 20
 
 # Amalgam.jar file
-This is an executable file that contains Alloy with its Amalgam plug-in. It is available and was originally downloaded [from here] (https://cs.brown.edu/research/plt/dl/fse2017/), but is being provided in this directory for convenience. 
+This is an executable file that contains Alloy with its Amalgam plug-in. It is available and was originally downloaded [from here](https://cs.brown.edu/research/plt/dl/fse2017/), but is being provided in this directory for convenience. 
