@@ -1,0 +1,50 @@
+Explaining why...
++this/CWE262(CWE262$0)
+...is necessary.
+Building all provenance trees took: 3 ms.
+Violated top-level fmla: ! this/Expiration_Date in this/Password. has_restriction => this/Password in this/CWE262. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Violated top-level fmla: ! this/Reuse in this/Password. has_restriction => this/Password in this/CWE262. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Got 2 provenances in total.
+Use @prov [0...1] to view each provenance. Use @lprov [0...1] to view a literal provenance for each.
+
+Explaining why...
++this/CWE307(CWE307$0)
+...is necessary.
+Building all provenance trees took: 2 ms.
+Violated top-level fmla: ! this/Attempts in this/Authentication. has_restriction => this/Authentication in this/CWE307. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Got 1 provenances in total.
+Use @prov [0...0] to view each provenance. Use @lprov [0...0] to view a literal provenance for each.
+
+Explaining why...
++this/CWE521(CWE521$0)
+...is necessary.
+Building all provenance trees took: 2 ms.
+Violated top-level fmla: ! this/Reuse in this/Password. has_restriction => this/Password in this/CWE521. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Violated top-level fmla: ! this/Common in this/Password. has_restriction => this/Password in this/CWE521. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Violated top-level fmla: ! this/Contextual_String in this/Password. has_restriction => this/Password in this/CWE521. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Got 3 provenances in total.
+Use @prov [0...2] to view each provenance.Use @lprov [0...2] to view a literal provenance for each.
+
+Explaining why...
++this/CWE671(CWE671$0)
+...is necessary.
+Building all provenance trees took: 2 ms.
+Violated top-level fmla: ! this/Administrator_Security_Controls in this/Administrator. has => this/Administrator in this/CWE671. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Got 1 provenances in total.
+Use @prov [0...0] to view each provenance. Use @lprov [0...0] to view a literal provenance for each.
+
+Explaining why...
++this/CWE779(CWE779$0)
+...is necessary.
+Building all provenance trees took: 2 ms.
+Violated top-level fmla: ! this/File Size in this/Log_File. has_restriction => this/Log_File in this/CWE779. affected_by 
+Statistics: expressions differenced: 15; num visits: 12
+Got 1 provenances in total.
+Use @prov [0...0] to view each provenance.Use @lprov [0...0] to view a literal provenance for each.
